@@ -13,6 +13,30 @@
         android:theme="@style/Theme.LibraryManagement"
         tools:targetApi="31">
         <activity
+            android:name=".item_bao_cao"
+            android:exported="false" />
+        <activity
+            android:name=".Details_ReportActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Lib_reportActivity"
+            android:exported="false" />
+        <activity
+            android:name=".item_phieu_tra"
+            android:exported="false" />
+        <activity
+            android:name=".Details_ReceiptActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Return_booksActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Rcv_receiptActivity"
+            android:exported="false" />
+        <activity
+            android:name=".receiptActivity"
+            android:exported="false" />
+        <activity
             android:name=".librarian_mainActivity"
             android:exported="false" />
         <activity
