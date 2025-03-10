@@ -11,4 +11,14 @@
         android:title="Delete"
         android:icon="@drawable/baseline_delete_24"
         app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_lock"
+        android:title="Lock"
+        android:icon="@drawable/icon_lock"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_unlock"
+        android:title="Un lock"
+        android:icon="@drawable/icon_unlock"
+        app:showAsAction="always"/>
 </menu>
