@@ -68,7 +68,7 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_margin="16dp"
-        tools:listitem="@layout/item_chi_tiet_sach"
+        tools:listitem="@layout/activity_item_chi_tiet_sach"
         android:orientation="vertical"
         app:layout_constraintTop_toBottomOf="@id/cardView"
         app:layout_constraintBottom_toTopOf="@id/btn_traSach"
